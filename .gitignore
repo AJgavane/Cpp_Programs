@@ -334,3 +334,7 @@ ASALocalRun/
 *.html
 *.js
 *.png
+Cpp_Programs/ObjToCpp/BunnyModel.cpp
+Cpp_Programs/ObjToCpp/BunnyModel.h
+Cpp_Programs/ObjToCpp/CubeModel.h
+Cpp_Programs/ObjToCpp/CubeModel.cpp
